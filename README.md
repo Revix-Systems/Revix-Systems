@@ -50,7 +50,7 @@ Your ideas help us build better software for everyone.
 
 ## 🎮 Revix-Portal
 
-A modern game library manager designed to organize, launch, and enhance your entire gaming collection.
+A modern game library manager designed to organize and enhance your entire gaming collection.
 
 ### Features
 
@@ -58,7 +58,7 @@ A modern game library manager designed to organize, launch, and enhance your ent
 * 📥 Download Manager
 * 📚 Integrated Guides
 * ⚡ Fast & Modern Interface
-* 🚀 More features in development
+* 🚀 And Many More Features
 
 ---
 
@@ -81,7 +81,7 @@ A lightweight video downloader powered by **yt-dlp**, designed to make downloadi
 
 Revix Systems is continuously expanding with new applications, improvements, and community-driven features.
 
-Take a look at **COMING-SOON.md** to see what we're currently working on and what's planned for the future.
+Take a look at [COMING-SOON.md](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md) to see what we're currently working on and what's planned for the future.
 
 ---
 
@@ -97,16 +97,6 @@ By joining our Discord, you'll get:
 * 🚀 Feature previews
 * 🗺️ Project roadmaps
 * 👥 Community discussions
-
----
-
-# 💻 Technologies
-
-Our software is built using modern Microsoft technologies.
-
-* C#
-* .NET
-* Windows Desktop
 
 ---
 
