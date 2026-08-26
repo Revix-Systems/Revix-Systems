@@ -7,8 +7,9 @@
 From game management to media tools, **Revix Systems** creates fast, lightweight, and user-friendly desktop applications designed to make everyday tasks simpler.
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)]()
-[![Language](https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge)]()
-[![Framework](https://img.shields.io/badge/.NET-Latest-512BD4?style=for-the-badge)]()
+[![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python-512BD4?style=for-the-badge)]()
+[![.NET](https://img.shields.io/badge/.NET-Latest-512BD4?style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
 ### 💬 Join Our Community
@@ -21,7 +22,9 @@ Follow development, get announcements, preview upcoming features, and stay up to
 
 # 🚀 About Revix Systems
 
-**Revix Systems** is a software development team focused on building modern Windows applications using **C#** and **.NET**.
+**Revix Systems** is a software development team focused on building modern desktop applications using **C#**, **.NET**, and **Python**.
+
+We choose the technologies that best fit each project. While **C# and .NET** are used for many of our Windows applications, **Python** is also an important part of our development ecosystem and is used for projects that benefit from Python's flexibility, extensive libraries, and strong media and automation capabilities.
 
 Our goal is straightforward:
 
@@ -75,6 +78,24 @@ Your feedback directly influences what we build and helps us create better exper
 * 🎞️ Multiple video formats
 * 🎨 Modern interface *(WIP)*
 * 🔄 Ongoing development
+
+---
+
+# 🐍 Our Technology
+
+Revix Systems isn't limited to a single programming language.
+
+We currently build software using both **C#/.NET** and **Python**, choosing the right technology based on the needs of each project.
+
+### C# & .NET
+
+Used for applications that benefit from a powerful, mature Windows development ecosystem, including desktop applications with rich graphical interfaces and system-level functionality.
+
+### Python
+
+Used for applications and tools that benefit from Python's extensive ecosystem, rapid development workflow, automation capabilities, and large selection of libraries for media processing, downloading, data management, and other tasks.
+
+This gives us the flexibility to choose the right tool for the job rather than restricting every project to a single technology.
 
 ---
 
