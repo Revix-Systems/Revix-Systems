@@ -150,7 +150,7 @@ Every contribution, no matter how small, helps us improve.
 
 <div align="center">
 
-# Thank You ❤️
+# Thank You ❤️[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E2Z121T4EW)
 
 Thank you for supporting **Revix Systems**.
 
