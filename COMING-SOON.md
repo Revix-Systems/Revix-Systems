@@ -2,9 +2,9 @@
 
 Welcome to the **Revix Systems Roadmap**.
 
-This page provides an overview of the current development status of projects across the Revix ecosystem, what we're working on right now, and what we have planned for the future.
+This page provides an overview of the current development status across the Revix ecosystem, including what we're working on now, what’s coming next, and where we plan to take our projects in the future.
 
-> **Please note:** Development priorities may change based on community feedback, technical requirements, and our ongoing efforts to improve the Revix ecosystem.
+> **Please note:** Development priorities may change over time based on community feedback, technical requirements, and our ongoing efforts to improve the Revix ecosystem.
 
 ---
 
@@ -13,10 +13,9 @@ This page provides an overview of the current development status of projects acr
 | Project               | Status                  | Progress           |
 | --------------------- | ----------------------- | ------------------ |
 | 🎮 **Revix-Portal**   | 🟢 Active Development   | ████████░░ **80%** |
+| 🎮 **Revix-Manager**  | 🟢 Active Development   | ███░░░░░░░ **30%** |
 | 📺 **Revix-Vid**      | 🔴 Development Stopped  | ██████░░░░ **60%** |
 | 📺 **Revix-Vid Plus** | 🟠 Development Starting | ███░░░░░░░ **30%** |
-| 🧩 **Revix-SDK**      | 🔴 Development Stopped  | █░░░░░░░░░ **10%** |
-| 🗄️ **Revix-DB**      | 🟡 Prototype            | ██░░░░░░░░ **20%** |
 
 ---
 
@@ -24,112 +23,65 @@ This page provides an overview of the current development status of projects acr
 
 **The next evolution of your game library.**
 
+Revix-Portal is designed to make managing and accessing your game library simpler, faster, and more convenient.
+
 ### 🚀 Currently Working On
 
-* 🔄 Rewriting the application for a faster, smoother experience
-* 🐞 Fixing bugs and improving stability
-* ⚡ Optimizing performance
+* 🔄 Preparing the application for the **v0.9.0 release**
+* 🐞 Fixing bugs and improving overall stability
+* ⚡ Optimizing performance and responsiveness
 * 🎨 Refining the UI and improving usability
-* ✨ Adding new quality-of-life features
+* ✨ Adding new quality-of-life improvements
 
 ### 📅 Planned
 
-* Additional Steam integrations
-* Improved download management
-* Bringing back the Guides tab
+* 🔗 Additional Steam integrations
+* 📥 Improved download management
+* 📚 Bringing back the **Guides & Support** section
 
 ---
 
-# 📺 Revix-Vid
+# 🎮 Revix-Manager
 
-**A lightweight, modern video downloader powered by yt-dlp.**
+**A multifunctional library and download manager.**
+
+Revix-Manager is designed to help you manage and download games, videos, music, and more. Its long-term goal is to provide a convenient way to organize and archive content you already own.
 
 ### 🚀 Currently Working On
 
-* 🎨 A complete UI redesign
-* ⚡ Faster and more efficient downloads
-* 🎵 Improved audio extraction
-* 📂 Better playlist support
-* 🐞 Improved stability and reliability
+* 🐞 Fixing existing bugs
+* ✨ Adding new features
+* ⚡ Improving performance
+* 🔧 Refining and expanding existing functionality
 
 ### 📅 Planned
 
-* Additional download providers
-* Download history
-* Automatic update system
-* Support for additional export formats
-
-> While Revix-Vid has not received an update since its initial release, development is continuing behind the scenes as we prepare a much larger update.
+* 🚀 Publishing the first full release
+* 📥 Optimizing download performance
+* 🤝 Introducing community-focused features
 
 ---
 
 # 📺 Revix-Vid Plus
 
-**The next generation of Revix-Vid.**
+**The next generation of Revix-Vid — built for Android.**
 
-Revix-Vid Plus is the next step in the evolution of our video tools, building on the foundation of Revix-Vid with a focus on improved usability, performance, and additional functionality.
+Revix-Vid Plus is the next step in the evolution of our video tools. Building on the foundation of Revix-Vid, the new application focuses on improved usability, better performance, greater flexibility, and additional functionality — all designed specifically for Android.
 
 ### 🚀 Currently Working On
 
 * 🏗️ Establishing the new application architecture
-* 🎨 Designing the new user experience
+* 🎨 Designing a modern and intuitive user experience
 * ⚡ Improving download performance
-* 🧩 Building a more flexible feature system
+* 🧩 Building a more flexible and scalable feature system
 
 ### 📅 Planned
 
-* Expanded download capabilities
-* Improved playlist management
-* Additional providers and formats
-* Enhanced customization
-* Integration with the wider Revix ecosystem
-
----
-
-# 🧩 Revix-SDK
-
-**The future foundation of the Revix ecosystem.**
-
-Revix-SDK is our first **open-source project**, designed to provide a shared foundation for current and future Revix applications.
-
-An early version of the SDK is already used internally by Revix-Vid, but there is still significant work to be completed before it is ready for public use.
-
-### 🚀 Currently Working On
-
-* Core libraries
-* Shared UI components
-* Configuration systems
-* Logging framework
-* Networking utilities
-
-### 📅 Planned
-
-* Plugin support
-* Comprehensive documentation
-* NuGet packages
-* Public release
-
----
-
-# 🗄️ Revix-DB
-
-**Our custom Lua-based database system.**
-
-Revix-DB is being developed to reduce our dependency on HubCap services while providing a faster, more flexible backend for the future of Revix-Portal.
-
-### 🚀 Currently Working On
-
-* Manual version publishing
-* Lua database engine
-* Performance improvements
-* API improvements
-* Simplified deployment
-
-### ⚠️ Known Limitations
-
-Early versions of Revix-DB will require users to manually install the required Lua files.
-
-Until the installation process becomes seamless, **HubCap support will remain fully available**.
+* 📥 Expanded download capabilities
+* 📋 Improved playlist management
+* 🌐 Additional providers and supported formats
+* 🎨 Enhanced customization options
+* 🔗 Integration with the wider Revix ecosystem
 
 ---
 
@@ -139,23 +91,22 @@ Our long-term vision for the Revix ecosystem includes:
 
 * 🌍 Expanding our collection of desktop applications
 * ⚡ Building faster, lighter, and more efficient software
-* 🧩 Creating shared technologies through Revix-SDK
-* 🤝 Increasing community involvement
-* 🔓 Releasing more projects as open source
+* 🤝 Increasing community involvement and collaboration
 * 🚀 Continuously innovating and improving the Revix ecosystem
+* 🔗 Creating a more connected and unified Revix experience
 
 ---
 
 # 💬 Stay Updated
 
-Want to follow the development of Revix Systems?
+Want to keep up with the development of **Revix Systems**?
 
 Join our Discord community to:
 
 * 📢 Follow development progress
-* 🧪 Test beta releases
-* 💡 Suggest new features
-* 🐞 Report bugs
+* 🧪 Test beta and preview releases
+* 💡 Suggest new features and improvements
+* 🐞 Report bugs and issues
 * 👀 Get exclusive sneak peeks
 * ❤️ Help shape the future of Revix Systems
 
@@ -165,7 +116,7 @@ Join our Discord community to:
 
 # Thank You ❤️
 
-Every download, bug report, suggestion, and community contribution helps us make Revix Systems better.
+Every download, bug report, suggestion, and contribution from our community helps us make **Revix Systems** better.
 
 **The future of Revix is just getting started.**
 
