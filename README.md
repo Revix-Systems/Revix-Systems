@@ -2,9 +2,9 @@
 
 # Revix Systems
 
-### Modern software, built for everyone.
+### Modern software. Built with purpose.
 
-From game management to media tools, **Revix Systems** creates fast, lightweight, and user-friendly desktop applications designed to make everyday tasks simpler.
+From game management to media and download tools, **Revix Systems** is focused on creating fast, lightweight, and user-friendly desktop applications designed to make everyday tasks easier.
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)]()
 [![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python-512BD4?style=for-the-badge)]()
@@ -12,9 +12,9 @@ From game management to media tools, **Revix Systems** creates fast, lightweight
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
-### 💬 Join My Community
+### 💬 Join the Community
 
-Follow development, get announcements, preview upcoming features, and stay up to date with new releases by joining my **Discord community**.
+Follow development, receive announcements, test upcoming features, and stay up to date with new releases by joining the **Revix Systems Discord community**.
 
 </div>
 
@@ -22,30 +22,34 @@ Follow development, get announcements, preview upcoming features, and stay up to
 
 # 🚀 About Revix Systems
 
-**Revix Systems** is my personal software development project, focused on building modern desktop applications using **C#**, **.NET**, and **Python**.
+**Revix Systems** is an independent software development project focused on building modern desktop applications with **C#**, **.NET**, and **Python**.
 
-I choose the technology that best fits each project. While **C# and .NET** are used for many of my Windows applications, **Python** is also an important part of my development ecosystem and is used for projects that benefit from Python's flexibility, extensive libraries, and strong media and automation capabilities.
+Rather than limiting every project to a single technology, I choose the tools that best fit each application's requirements.
 
-My goal is straightforward:
+**C# and .NET** are primarily used for Windows applications that require a powerful and modern desktop experience, while **Python** is used for projects that benefit from its flexibility, extensive ecosystem, automation capabilities, and wide range of media-related libraries.
+
+The goal is simple:
 
 > **Build powerful, lightweight, and accessible software that anyone can enjoy.**
 
-Beyond my own applications, I also create useful tools, resources, and recommendations to help users get more out of their PCs.
+Alongside my applications, I also work on useful tools, resources, and other projects designed to help users get more out of their PCs.
 
 ---
 
 # 🌟 My Vision
 
-At Revix Systems, I believe great software is built together with its community.
+I believe great software becomes even better when it's shaped by the people who use it.
 
-My projects continue to evolve through:
+That's why community feedback plays an important role in the development of Revix Systems.
 
-* 💡 Community feature requests
+Projects evolve through:
+
+* 💡 Feature requests and ideas
 * 🐞 Bug reports and issue tracking
-* 🧪 Beta testing
-* ❤️ User feedback and suggestions
+* 🧪 Beta and preview testing
+* ❤️ Feedback, suggestions, and discussions
 
-Your feedback directly influences what I build and helps me create better experiences for everyone.
+Your feedback helps determine what gets improved, what gets built next, and how Revix applications evolve over time.
 
 ---
 
@@ -53,70 +57,85 @@ Your feedback directly influences what I build and helps me create better experi
 
 ## 🎮 Revix-Portal
 
-**A modern game library manager built to organize and enhance your entire gaming collection.**
+**A modern game library manager built to organize and enhance your gaming collection.**
+
+Revix-Portal brings your games and related tools together in one convenient application, with a focus on simplicity, performance, and quality of life.
 
 ### Features
 
 * 🎮 Game library management
-* 📥 Integrated download manager
-* 📚 Built-in guides
-* ⚡ Fast and modern interface
-* ✨ Quality-of-life features
-* 🚀 More features in development
+* 📥 Integrated download management
+* 🔧 Integrated fixes for supported games
+* ⚡ Fast and modern user interface
+* ✨ Quality-of-life improvements
+* 🚀 More features actively in development
 
 ---
 
-## 📺 Revix-Vid
+## 🎮 Revix-Manager
 
-**A lightweight video downloader powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp), designed to make downloading videos simple and efficient.**
+**A multifunctional library and download manager designed to help you archive content you already own.**
+
+Revix-Manager brings multiple types of content and tools together into a single application.
 
 ### Features
 
-* ⚡ High-speed downloads
-* 📂 Playlist support
-* 🎵 Audio extraction
-* 🎞️ Multiple video formats
-* 🎨 Modern interface *(WIP)*
-* 🔄 Ongoing development
+* 🎮 Game search and download
+* 📺 Anime search, downloading, and in-app playback
+* 📚 Book searching
+* 💾 ROM browsing
+* 🎵 Integrated music downloader and player with lyrics
+* 📥 Video downloading
+* ✨ More features available and in development
 
 ---
 
-# 🐍 My Technology
+# 🐍 Technology
 
-Revix Systems isn't limited to a single programming language.
+Revix Systems isn't tied to a single programming language.
 
-I currently build software using both **C#/.NET** and **Python**, choosing the right technology based on the needs of each project.
+I currently work primarily with **C#/.NET** and **Python**, choosing the technology that makes the most sense for each individual project.
 
-### C# & .NET
+## C# & .NET
 
-I use C# and .NET for applications that benefit from a powerful, mature Windows development ecosystem, including desktop applications with rich graphical interfaces and system-level functionality.
+I use **C# and .NET** for applications that benefit from a powerful and mature Windows development ecosystem.
 
-### Python
+This includes desktop applications that require rich graphical interfaces, strong performance, and deeper integration with Windows.
 
-I use Python for applications and tools that benefit from its extensive ecosystem, rapid development workflow, automation capabilities, and large selection of libraries for media processing, downloading, data management, and other tasks.
+## Python
 
-This gives me the flexibility to choose the right tool for the job rather than restricting every project to a single technology.
+I use **Python** for applications and tools that benefit from rapid development, automation, and its extensive ecosystem of libraries.
+
+Python is particularly useful for projects involving media processing, downloading, data management, automation, and other tasks where its flexibility provides an advantage.
+
+### Choosing the Right Tool
+
+Every project has different requirements.
+
+Rather than forcing every application into the same technology, I aim to use the **right tool for the job**.
 
 ---
 
 # 🚧 What's Next?
 
-Revix Systems is constantly evolving.
+**Revix Systems is constantly evolving.**
 
-I'm working on new applications, improvements to existing projects, and features driven by the community.
+I'm actively working on new applications, improving existing projects, fixing issues, and developing features based on community feedback.
 
-Check out my **[Roadmap](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md)** to see what I'm currently working on and what's planned for the future.
+Want to see what's currently being worked on?
+
+Check out the **[Roadmap](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md)** for current development progress, upcoming projects, and planned features.
 
 ---
 
-# ❤️ My Community
+# ❤️ The Community
 
 Whether you're testing a beta build, reporting a bug, suggesting an idea, or simply using one of my applications, **you're helping shape the future of Revix Systems.**
 
-By joining my Discord community, you'll get access to:
+By joining the Revix Systems Discord community, you'll get access to:
 
 * 📢 Development announcements
-* 🧪 Early beta releases
+* 🧪 Early beta and preview releases
 * 💬 Direct communication with me
 * 🚀 Upcoming feature previews
 * 🗺️ Project roadmaps
@@ -127,23 +146,23 @@ By joining my Discord community, you'll get access to:
 
 # 🤝 Contributing
 
-My applications are currently **closed source**, so I'm not accepting direct code contributions at this time.
+The applications developed by Revix Systems are currently **closed source**, so direct code contributions aren't accepted at this time.
 
-There are still plenty of ways you can help:
+However, there are still many ways you can contribute to the project:
 
-* 🐞 Report bugs
+* 🐞 Report bugs and issues
 * 💡 Suggest new features
 * 🧪 Test beta releases
 * 💬 Share feedback
 * ❤️ Participate in the community
 
-Every contribution, no matter how small, helps me improve.
+Every report, suggestion, and piece of feedback helps improve the projects.
 
 ---
 
 # 📚 Resources
 
-* 📄 **[Roadmap](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md)** — Upcoming projects, development progress, and planned features
+* 📄 **[Roadmap](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md)** — Development progress, upcoming projects, and planned features
 * 💬 **[Discord](https://discord.com/invite/RNNg5TS7h5)** — Community, announcements, support, beta testing, and discussions
 
 ---
@@ -152,7 +171,7 @@ Every contribution, no matter how small, helps me improve.
 
 # Thank You ❤️
 
-Whether you're downloading my software, testing new features, reporting bugs, or simply being part of my community, I truly appreciate your support.
+Whether you're downloading an application, testing new features, reporting bugs, suggesting improvements, or simply being part of the community, **your support means a lot.**
 
 ### **See you on [Discord](https://discord.com/invite/RNNg5TS7h5)** 🚀
 
