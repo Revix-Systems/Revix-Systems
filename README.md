@@ -152,14 +152,6 @@ Every contribution, no matter how small, helps me improve.
 
 # Thank You ❤️
 
-## ☕ Support My Work
-
-If you enjoy my projects and would like to support my development, you can buy me a coffee on **Ko-fi**. Every bit of support helps me continue developing Revix Systems, creating new features, and maintaining my existing applications.
-
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E2Z121T4EW)
-
-Thank you for supporting me! ❤️
-
 Whether you're downloading my software, testing new features, reporting bugs, or simply being part of my community, I truly appreciate your support.
 
 ### **See you on [Discord](https://discord.com/invite/RNNg5TS7h5)** 🚀
