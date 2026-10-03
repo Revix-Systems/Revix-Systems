@@ -12,88 +12,32 @@ This page provides an overview of the current development status across the Revi
 
 | Project               | Status                  | Progress           |
 | --------------------- | ----------------------- | ------------------ |
-| 🎮 **Revix-Portal**   | 🟢 Active Development   | ████████░░ **80%** |
-| 🎮 **Revix-Manager**  | 🟢 Active Development   | ███░░░░░░░ **30%** |
-| 📺 **Revix-Vid**      | 🔴 Development Stopped  | ██████░░░░ **60%** |
-| 📺 **Revix-Vid Plus** | 🟠 Development Starting | ███░░░░░░░ **30%** |
+| 🎮 **Revix-Portal**   | 🔴 Development Stopped  | ████████░░ **80%**  |
+| 🎮 **Revix-Manager**  | 🔴 Development Stopped  | ███░░░░░░░ **30%** |
+| 📺 **Revix-Vid**      | 🔴 Development Stopped  | ██████░░░░ **60%**  |
+| 📺 **Revix-Vid Plus** | 🔴 Development Stopped  | ███░░░░░░░ **30%** |
 
 ---
 
-# 🎮 Revix-Portal
+# Current Project Status
 
-**The next evolution of your game library.**
+## What Changed?
 
-Revix-Portal is designed to make managing and accessing your game library simpler, faster, and more convenient.
+Development on all apps and other projects has been paused due to personal reasons. Should any project receive an update in the future, it will be shared exclusively through my Discord server.
 
-### 🚀 Currently Working On
+##Why Are All Projects Private?
 
-* 🔄 Preparing the application for the **v0.9.0 release**
-* 🐞 Fixing bugs and improving overall stability
-* ⚡ Optimizing performance and responsiveness
-* 🎨 Refining the UI and improving usability
-* ✨ Adding new quality-of-life improvements
+These projects were never intended to be open source, at least not in the near term. GitHub was simply the most convenient platform for hosting updates. If you'd like to access any of them, please join my Discord and open a ticket.
 
-### 📅 Planned
+##What's Planned for the Future?
 
-* 🔗 Additional Steam integrations
-* 📥 Improved download management
-* 📚 Bringing back the **Guides & Support** section
+At this time, there are no plans for future updates or releases.
 
 ---
 
-# 🎮 Revix-Manager
+# General Information
 
-**A multifunctional library and download manager.**
-
-Revix-Manager is designed to help you manage and download games, videos, music, and more. Its long-term goal is to provide a convenient way to organize and archive content you already own.
-
-### 🚀 Currently Working On
-
-* 🐞 Fixing existing bugs
-* ✨ Adding new features
-* ⚡ Improving performance
-* 🔧 Refining and expanding existing functionality
-
-### 📅 Planned
-
-* 🚀 Publishing the first full release
-* 📥 Optimizing download performance
-* 🤝 Introducing community-focused features
-
----
-
-# 📺 Revix-Vid Plus
-
-**The next generation of Revix-Vid — built for Android.**
-
-Revix-Vid Plus is the next step in the evolution of our video tools. Building on the foundation of Revix-Vid, the new application focuses on improved usability, better performance, greater flexibility, and additional functionality — all designed specifically for Android.
-
-### 🚀 Currently Working On
-
-* 🏗️ Establishing the new application architecture
-* 🎨 Designing a modern and intuitive user experience
-* ⚡ Improving download performance
-* 🧩 Building a more flexible and scalable feature system
-
-### 📅 Planned
-
-* 📥 Expanded download capabilities
-* 📋 Improved playlist management
-* 🌐 Additional providers and supported formats
-* 🎨 Enhanced customization options
-* 🔗 Integration with the wider Revix ecosystem
-
----
-
-# 🛣️ Long-Term Goals
-
-Our long-term vision for the Revix ecosystem includes:
-
-* 🌍 Expanding our collection of desktop applications
-* ⚡ Building faster, lighter, and more efficient software
-* 🤝 Increasing community involvement and collaboration
-* 🚀 Continuously innovating and improving the Revix ecosystem
-* 🔗 Creating a more connected and unified Revix experience
+If new projects, releases, or updates become available in the future, they will likely be distributed through Discord rather than here. The only exception would be if there is truly no alternative option.
 
 ---
 
