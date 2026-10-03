@@ -25,11 +25,11 @@ This page provides an overview of the current development status across the Revi
 
 Development on all apps and other projects has been paused due to personal reasons. Should any project receive an update in the future, it will be shared exclusively through my Discord server.
 
-##Why Are All Projects Private?
+## Why Are All Projects Private?
 
 These projects were never intended to be open source, at least not in the near term. GitHub was simply the most convenient platform for hosting updates. If you'd like to access any of them, please join my Discord and open a ticket.
 
-##What's Planned for the Future?
+## What's Planned for the Future?
 
 At this time, there are no plans for future updates or releases.
 
