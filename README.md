@@ -1,12 +1,14 @@
 <div align="center">
 
-Revix Systems
-Modern software. Built with purpose.
+# Revix Systems
+
+## Modern software. Built with purpose.
 
 </div>
 
-Current Project Status
-Featherfox
+# Current Project Status
+
+## Featherfox
 
 Featherfox is a lightweight, personally customized version of Waterfox, designed around my own preferences and priorities.
 
@@ -16,13 +18,13 @@ Because of this, Featherfox isn't intended to provide the same experience as oth
 
 Development is still in its early stages, so don't expect a release anytime soon. There's still a lot of work ahead!
 
-Other Projects
+## Other Projects
 
 I have several other project ideas that I'd like to explore in the future. However, nothing is actively available to share just yet.
 
 More information will be provided as these ideas begin to take shape.
 
-General Information
+## General Information
 
 Featherfox and any potential future projects are still in the early stages of development.
 
@@ -30,18 +32,19 @@ Please keep in mind that these projects take time. There are no immediate releas
 
 Thank you for your patience and understanding while development progresses!
 
-📚 Resources
-📄 [Roadmap](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md) — Follow development progress, explore upcoming projects, and see what's planned for the future.
-💬 [Discord](https://discord.com/invite/RNNg5TS7h5) — Join the community for announcements, support, discussions, beta testing, and general updates.
+## Resources
+[Roadmap](https://github.com/Revix-Systems/Revix-Systems/blob/main/COMING-SOON.md) — Follow development progress, explore upcoming projects, and see what's planned for the future.
+
+[Discord](https://discord.com/invite/RNNg5TS7h5) — Join the community for announcements, support, discussions, beta testing, and general updates.
 
 <div align="center">
 
-Thank You ❤️
+## Thank You ❤️
 
 Whether you're downloading an application, testing new features, reporting bugs, sharing suggestions, or simply being part of the community, your support genuinely means a lot.
 
 Every bit of feedback and encouragement helps keep these projects moving forward.
 
-See you on Discord 🚀
+### See you on Discord 🚀
 
 </div>
