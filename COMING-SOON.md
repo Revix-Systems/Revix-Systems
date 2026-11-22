@@ -21,7 +21,7 @@ This page provides an overview of the current development status across all proj
 
 ## Featherfox
 
-Featherfox is a lightweight, personally customized version of Waterfox, designed around my own preferences and priorities.
+Featherfox is a lightweight, personally customized version of Firefox, designed around my own preferences and priorities.
 
 The goal is simple: deliver a browser that stays as lightweight and streamlined as possible. To achieve this, various features and components have been removed because I consider them unnecessary or simply don't have a use for them.
 
@@ -52,7 +52,7 @@ Thank you for your patience and understanding while development progresses!
 
 Want to keep up with the development of **Revix Systems**?
 
-Join our Discord community to:
+Join my Discord community to:
 
 * 📢 Follow development progress
 * 🧪 Test beta and preview releases
